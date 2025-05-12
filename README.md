@@ -21,6 +21,17 @@ Placez stratégiquement différentes tourelles (classique, artillerie, etc.) pou
 
 ---
 
+## 🎨 Thème du jeu et graphisme
+
+*Bastion des Âges* plonge le joueur dans un univers médiéval fantastique où le temps est une ressource manipulable. L’esthétique visuelle se rapproche d’un style pixel art sombre, évoquant des jeux classiques tout en intégrant des éléments modernes de lumière et d’ambiance.
+
+---
+
+### Extrait visuel
+
+![Aperçu graphique du jeu](./assets/theme.png)
+
+
 ## 🕹️ Comment jouer
 
 1. Lancez le jeu avec Python :
