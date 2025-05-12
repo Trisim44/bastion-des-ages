@@ -23,7 +23,7 @@ Placez stratégiquement différentes tourelles (classique, artillerie, etc.) pou
 
 ## 🎨 Thème du jeu et graphisme
 
-*Bastion des Âges* plonge le joueur dans un univers médiéval fantastique où le temps est une ressource manipulable. L’esthétique visuelle se rapproche d’un style pixel art sombre, évoquant des jeux classiques tout en intégrant des éléments modernes de lumière et d’ambiance.
+*Bastion des Âges* plonge le joueur dans un univers préhistorique où il doit affronter plusieurs grands prédateurs de son temps. L’esthétique visuelle se rapproche d’un style pixel art sombre, évoquant des jeux classiques tout en intégrant des éléments modernes de lumière et d’ambiance.
 
 ---
 
