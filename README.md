@@ -29,7 +29,7 @@ Placez stratégiquement différentes tourelles (classique, artillerie, etc.) pou
 
 ### Extrait visuel
 
-![Aperçu graphique du jeu](.screenshot.jpg)
+![Aperçu graphique du jeu](screenshot.jpg)
 
 
 ## 🕹️ Comment jouer
