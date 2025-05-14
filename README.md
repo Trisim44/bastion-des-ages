@@ -60,15 +60,3 @@ Dézippez le dossier, ouvrez un terminal dans le dossier, puis lancez main.py po
 
 ---
 
-## 🎥 Vidéo de démonstration
-
-Une courte vidéo explicative sera ajoutée prochainement pour montrer comment lancer le jeu et comment y jouer.
-
----
-
-## 👨‍💻 Crédits
-
-Ce projet a été réalisé dans le cadre du cours de NSI en terminale.
-Merci à notre professeur pour son accompagnement tout au long du projet.
-
----
