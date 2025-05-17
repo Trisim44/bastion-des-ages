@@ -16,7 +16,7 @@ Placez stratégiquement différentes tourelles (classique, artillerie, etc.) pou
 
 - 🌊 Système de vagues d'ennemis
 - 🧱 Plusieurs types de tourelles
-- 💸 Système d'argent et d'amélioration
+- 💸 Système d'argent et de vente
 - 🗺️ Carte avec emplacements définis pour poser les tourelles
 
 ---
