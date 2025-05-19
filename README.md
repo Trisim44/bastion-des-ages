@@ -30,33 +30,3 @@ Placez stratégiquement différentes tourelles (classique, artillerie, etc.) pou
 ### Extrait visuel
 
 ![Aperçu graphique du jeu](screenshot.jpg)
-
-
-## 🕹️ Comment jouer
-
-1. Lancez le jeu avec Python :
-   ```bash
-   python main.py
-2. Cliquer sur les emplacements pour poser des tourelles
-3. Gérer votre argent pour améliorer votre défense
-4. Tenter de survivre le plus longtemps possible !
-
----
-
-## 🖥️ Pré-requis
-
-- Python 3.10 ou plus 
-- Installer la bibliothèque Pygame :
-
-   ```bash
-   pip install pygame
----
-
-## 📦 Télécharger le jeu
-
-➡️ [Clique ici pour télécharger Bastion des Âges (.zip)](https://drive.google.com/uc?export=download&id=14SqKLZbqZ-m1JzSvuDlD2_KYZMtCguRu)
-
-Dézippez le dossier, ouvrez un terminal dans le dossier, puis lancez main.py pour jouer.
-
----
-
